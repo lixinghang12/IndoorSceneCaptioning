@@ -4,4 +4,6 @@ Robots are usually equipped with cameras to explore the indoor scene and it is e
 
 <img src="framework.png" />
 
+The exihibiting videos would be uploaded soon
+
 
