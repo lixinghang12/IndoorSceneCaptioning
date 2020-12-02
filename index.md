@@ -16,7 +16,7 @@ The exihibiting videos would be uploaded soon
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-<video id="video" controls="controls" preload="none" width="720" height="380" poster='office_b1_p5.png'>
+<video id="video" controls="controls" preload="none" width="1440" height="760" poster='office_b1_p5.png'>
       <source id="mp4" src="office_b1_p5.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
