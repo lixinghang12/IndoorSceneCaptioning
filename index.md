@@ -26,5 +26,4 @@ The exihibiting videos would be uploaded soon
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-peac
-
+peace
