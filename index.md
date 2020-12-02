@@ -6,8 +6,8 @@ Robots are usually equipped with cameras to explore the indoor scene and it is e
 
 The exihibiting videos would be uploaded soon
 
-<video id="video" controls="controls" preload="none" poster='FP5_p4.png'>
-      <source id="mp4" src="FP5_p4.mp4" type="video/mp4">
+<video id="video" controls="controls" preload="none" width="1440" height="760" poster='FP5_p4.png'>
+      <source id="mp4" src="FP5_p4_1.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
